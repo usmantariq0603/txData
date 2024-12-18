@@ -1,0 +1,11 @@
+[
+  {
+    "name": "reviveuser",
+    "master": true,
+    "password_hash": "${password_hash}",
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  }  
+]
